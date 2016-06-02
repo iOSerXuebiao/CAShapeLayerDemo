@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9505AA71F5B4CE0DAC1874ED7D93276D049DCFE6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D76A1E5AD2B7F6B48D9FB76E4C443E20A78E884C" : 0,
+    "9505AA71F5B4CE0DAC1874ED7D93276D049DCFE6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "25469B6B-EBCC-4437-8820-93ECA16F203F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D76A1E5AD2B7F6B48D9FB76E4C443E20A78E884C" : "ShapeLayerDemo\/ShapeLayerDemo\/",
+    "9505AA71F5B4CE0DAC1874ED7D93276D049DCFE6" : "ShapeLayerDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ShapeLayerDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ShapeLayerDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iOSerXuebiao\/ShapeLayerDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9505AA71F5B4CE0DAC1874ED7D93276D049DCFE6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iOSerXuebiao\/ShapeLayerDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D76A1E5AD2B7F6B48D9FB76E4C443E20A78E884C"
+    }
+  ]
+}
